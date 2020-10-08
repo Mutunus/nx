@@ -29,6 +29,15 @@
     "my-angular-app-e2e": {
       "tags": [],
       "implicitDependencies": ["my-angular-app"]
+    },
+    "api": {
+      "tags": []
+    },
+    "data": {
+      "tags": []
+    },
+    "ui": {
+      "tags": []
     }
   }
 }
